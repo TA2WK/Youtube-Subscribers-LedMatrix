@@ -19,11 +19,20 @@ This project was inspired by https://github.com/DIY-Machines/YoutubeSubcriberV1 
 - YouTube API https://github.com/witnessmenow/arduino-youtube-api
 - Arduino JSON https://github.com/bblanchon
 
-`Following libraries and ESP boards can be installed in Arduino IDE | **File > Settings > Additional Board Manager URLs:**
-and paste this **https://arduino.esp8266.com/stable/package_esp8266com_index.json**`
+`Following libraries and ESP boards can be installed in Arduino IDE | File > Settings > Additional Board Manager URLs:
+and paste this https://arduino.esp8266.com/stable/package_esp8266com_index.json`
 - WiFiClientSecure
 - ESP8266WiFi
 
 ### 3D STL Files
 ---
 https://www.thingiverse.com/thing:3444779
+
+### Version v1
+----------
+- Initial release
+- Hard coded WiFi connection parameters. Will add web interface to change WiFi parameters and options
+
+### Known Issues
+------
+- YouTube stripe is built-in but not working. Not important.
