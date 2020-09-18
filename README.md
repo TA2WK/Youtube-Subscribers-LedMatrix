@@ -13,14 +13,14 @@ This project was inspired by https://github.com/DIY-Machines/YoutubeSubcriberV1 
 
 ### Required Arduino IDE Libraries
 ---
-Following libraries can be installed in Arduino IDE library manager
+`'Following libraries can be installed in Arduino IDE library manager'`
 - MD_Max72XX https://github.com/MajicDesigns/MD_MAX72XX
 - MD_Parola https://github.com/MajicDesigns/MD_Parola
 - YouTube API https://github.com/witnessmenow/arduino-youtube-api
 - Arduino JSON https://github.com/bblanchon
 
-#### Following libraries and ESP boards should be installed in Arduino IDE | File > Settings > Additional Board Manager URLs:
-and paste this https://arduino.esp8266.com/stable/package_esp8266com_index.json
+`'Following libraries and ESP boards should be installed in Arduino IDE | File > Settings > Additional Board Manager URLs:
+and paste this https://arduino.esp8266.com/stable/package_esp8266com_index.json'`
 - WiFiClientSecure
 - ESP8266WiFi
 
