@@ -3,7 +3,7 @@ Basic YouTube subscribers and viewer counter that can be done using ESP32s, ESP8
 
 This project was inspired by https://github.com/DIY-Machines/YoutubeSubcriberV1 and done using new YouTube APIs and excellent animated MD_Max and MD_Parola LedMatrix display libraries.
 
-Required Hardware/Tools
+#Required Hardware/Tools
 ------------------------------------------------------------------------
 ■ Wemos D1 Mini
 ■ MAX7219 Display Matrix (4 panels)
