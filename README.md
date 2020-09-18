@@ -28,9 +28,11 @@ and paste this https://arduino.esp8266.com/stable/package_esp8266com_index.json`
 ---
 https://www.thingiverse.com/thing:3444779
 
-### Version v1
+### Release Info
 ----------
+`Version v1`
 - Initial release
+- Available in English and Turkish
 - Hard coded WiFi connection parameters. Will add web interface to change WiFi parameters and options
 
 ### Known Issues
