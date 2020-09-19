@@ -237,7 +237,7 @@ void displaySerialReport() {
 void pollYoutubeAPI() {
   if (api.getChannelStatistics(CHANNEL_ID)) {
     subCount  = api.channelStats.subscriberCount;
-    isSubsHidden  = api.channelStats.hiddenSubscriberCount
+    isSubsHidden  = api.channelStats.hiddenSubscriberCount;
     viewCount = api.channelStats.viewCount;
     videoCount = api.channelStats.videoCount;
     
