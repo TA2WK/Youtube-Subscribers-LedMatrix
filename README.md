@@ -5,10 +5,10 @@ This project was inspired by https://github.com/DIY-Machines/YoutubeSubcriberV1 
 
 ### Required Hardware/Tools
 ---
-- Wemos D1 Mini
-- MAX7219 Display Matrix (4 panels)
-- Breadboard Jumper Cables
-- USB A to USB Micro B Cable (Basic microUSB Android cable, data capable)
+- [Wemos D1 Mini](https://s.click.aliexpress.com/e/_dYzhfhp)
+- [MAX7219 Display Matrix (4 panels)](https://s.click.aliexpress.com/e/_d7a2q6f)
+- [Breadboard Jumper Cables (F-F)](https://s.click.aliexpress.com/e/_d8bPAfh)
+- [USB A to USB Micro B Cable (Basic microUSB Android cable, data capable)](https://s.click.aliexpress.com/e/_dVc8zCP)
 - Some Nuts and Bolts (if you would like to use it with 3D printed box - see below)
 
 ### Required Arduino IDE Libraries
