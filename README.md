@@ -1,5 +1,5 @@
 # YoutubeSubscribers
-This is a basic YouTube subscribers and viewer counter that can be done using **ESP32s**, **ESP8226** or **Wemos D1 Mini**. I used Wemos D1 Mini but any other ESP devices can be used.
+This is a basic YouTube subscribers and viewer counter that can be done using **ESP32s**, **ESP8286** or **Wemos D1 Mini**. I used Wemos D1 Mini but any other ESP devices can be used.
 
 This project was inspired by https://github.com/DIY-Machines/YoutubeSubcriberV1 and done using new **YouTube APIs** and excellent animated **MD_Max72XX** and **MD_Parola** LedMatrix display libraries.
 
