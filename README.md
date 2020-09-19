@@ -9,7 +9,7 @@ This project was inspired by https://github.com/DIY-Machines/YoutubeSubcriberV1 
 - MAX7219 Display Matrix (4 panels)
 - Breadboard Jumper Cables
 - USB A to USB Micro B Cable (Basic microUSB Android cable, data capable)
-- Some Nuts and Bolts (if you would like to use it with 3D printer box - see below)
+- Some Nuts and Bolts (if you would like to use it with 3D printed box - see below)
 
 ### Required Arduino IDE Libraries
 ---
