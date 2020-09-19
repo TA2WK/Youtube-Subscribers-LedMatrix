@@ -28,12 +28,12 @@
 
 // MAX7219 control pins and number of chips
 #define MAX_DEVICES 4 //how many 8x8 panels
-#define CS_PIN      D4
 #define CLK_PIN     D5
-#define DATA_PIN    D7
+#define CS_PIN      D6
+#define DATA_PIN    D7  // DIN
 
 #define HARDWARE_TYPE MD_MAX72XX::FC16_HW
-#define BUZZER_PIN D3
+#define BUZZER_PIN D4
 
 // Hardware SPI connection
 MD_Parola P = MD_Parola(HARDWARE_TYPE, CS_PIN, MAX_DEVICES);
