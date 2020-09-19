@@ -40,3 +40,6 @@ https://www.thingiverse.com/thing:3444779
 ### Known Issues
 ------
 - YouTube stripe is built-in but not working. Not important.
+
+---------
+Snowist erhanas@gmail.com
