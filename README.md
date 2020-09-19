@@ -3,6 +3,8 @@ This is a basic YouTube subscribers and viewer counter that can be done using **
 
 This project was inspired by https://github.com/DIY-Machines/YoutubeSubcriberV1 and done using new **YouTube APIs** and excellent animated **MD_Max72XX** and **MD_Parola** LedMatrix display libraries.
 
+**Demo:** https://www.youtube.com/watch?v=1wnz1kSj48E
+
 ### Required Hardware/Tools
 ---
 - [Wemos D1 Mini](https://s.click.aliexpress.com/e/_dYzhfhp)
