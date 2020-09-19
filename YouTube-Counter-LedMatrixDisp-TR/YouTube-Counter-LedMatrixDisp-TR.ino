@@ -41,8 +41,8 @@ MD_Parola P = MD_Parola(HARDWARE_TYPE, CS_PIN, MAX_DEVICES);
 //MD_MAX72XX mx = MD_MAX72XX(HARDWARE_TYPE, DATA_PIN, CLK_PIN, CS_PIN, MAX_DEVICES);
 
 //------- Aşağıdaki bilgileri doldurun! ------
-char ssid[] = "";            // WiFi ağınızın SSID (ismi)
-char password[] = "";        // WiFi şifreniz
+char ssid[] = "";             // WiFi ağınızın SSID (ismi)
+char password[] = "";         // WiFi şifreniz
 
 // API_KEY almak için https://www.youtube.com/watch?v=XqblZzy2lJE veya https://ademocut.com/youtube-api-key-nasil-alinir/
 // CHANNEL_ID almak için YouTube hs ile bu adrese girin https://www.youtube.com/account_advanced
